@@ -1,0 +1,21 @@
+.gridWrap {
+  width: 90%;
+  margin: auto;
+  height: auto;
+}
+
+table td.even {
+  background: #e5f8fb;
+  cursor: pointer;
+  padding: 20px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+table td.odd {
+  background: #f2fcfd;
+  cursor: pointer;
+  padding: 20px;
+  text-align: left;
+  vertical-align: middle;
+}
